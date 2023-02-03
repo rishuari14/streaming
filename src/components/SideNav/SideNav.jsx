@@ -26,9 +26,9 @@ const SideNav = () => {
             ></div>
             <div className="cart-content">
                 <ul id="MobileNav" className="mobile-nav siteNavigation">
-                    <li className="lvl1"><a href="/">Home</a></li>
+                    <li className="lvl1"><a href="/streaming">Home</a></li>
                 
-                                                         <li className="lvl1"><a href="/login">Login</a></li>
+                                                         <li className="lvl1"><a href="/streaming/login">Login</a></li>
                                                        
                   </ul>
            
